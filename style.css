@@ -1,0 +1,22 @@
+.post {
+    width: 500px;
+    height: 480px;
+    border: 10px solid #192655;
+    border-radius: 2%;
+    background-color: #003366;
+  }
+
+.post img{
+    width: 31rem;
+}
+
+.post h1, p{
+    color: white;
+}
+.email{
+    width: 237px;
+    height: 200px;
+    border: 10px solid #192655;
+    border-radius: 2%;
+    background-color: #003366;
+}
